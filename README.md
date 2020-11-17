@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**CharlotteSaury/CharlotteSaury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Charlotte, PHP/Symfony junior web developer ! 
 
-Here are some ideas to get you started:
+🌱 I just finished my studies with OpenClassrooms, learning PHP/Symfony and other technologies... but my journey as web developer is just beginning !!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking for a first job to develop new development skills !
+
+📫 Feel free to reach me : 
+  * By email saury.charlotte@wanadoo.fr 
+  * On [LinkedIn](https://www.linkedin.com/in/charlottesaury/)
+  * Or through my oncoming portfolio at [saurycharlotte.fr](saurycharlotte.fr)
+
+See you soon !
