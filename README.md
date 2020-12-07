@@ -9,6 +9,6 @@ I'm Charlotte, PHP/Symfony junior web developer !
 📫 Feel free to reach me : 
   * By email saury.charlotte@wanadoo.fr 
   * On [LinkedIn](https://www.linkedin.com/in/charlottesaury/)
-  * Or through my oncoming portfolio at [saurycharlotte.fr](saurycharlotte.fr)
+  * Or through my oncoming portfolio at [https://www.charlottesaury.fr](https://www.charlottesaury.fr)
 
 See you soon !
